@@ -1,2 +1,2 @@
-# dbz1
+# dbz
 The code is shit, but you guys can try and mess with it...
